@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Autenticacion
+comment1.params=correo\ contrasena
+comment1.target=java.util.Map\ autenticar(java.lang.String,\ java.lang.String)
+numComments=2

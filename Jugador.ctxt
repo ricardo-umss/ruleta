@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=id\ nombre\ apodo\ saldo
+comment1.target=Jugador(int,\ java.lang.String,\ java.lang.String,\ double)
+comment10.params=apodo
+comment10.target=boolean\ esApodoValido(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ obtenerNombre()
+comment3.params=nombre
+comment3.target=void\ establecerNombre(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ obtenerApodo()
+comment5.params=apodo
+comment5.target=void\ establecerApodo(java.lang.String)
+comment6.params=
+comment6.target=double\ obtenerSaldo()
+comment7.params=saldo
+comment7.target=void\ establecerSaldo(double)
+comment8.params=
+comment8.target=int\ getID()
+comment9.params=nombre
+comment9.target=boolean\ esNombreValido(java.lang.String)
+numComments=11

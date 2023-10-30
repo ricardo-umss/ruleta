@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=JuegoRuleta
+comment1.params=jugador
+comment1.target=JuegoRuleta(Jugador)
+comment2.params=apuesta
+comment2.target=void\ realizarApuesta(Apuesta)
+comment3.params=resultado
+comment3.target=void\ pagarGanancias(int)
+comment4.params=
+comment4.target=void\ verEstadoMesa()
+numComments=5

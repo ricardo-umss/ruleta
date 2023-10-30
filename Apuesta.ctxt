@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Apuesta
+comment1.params=monto
+comment1.target=Apuesta(double)
+comment2.params=
+comment2.target=double\ getMonto()
+comment3.params=monto
+comment3.target=void\ setMonto(double)
+comment4.params=
+comment4.target=java.lang.String\ getTipoApuesta()
+comment5.params=numeroGanador
+comment5.target=double\ calcularGanancia(int)
+comment6.params=numeroGanador
+comment6.target=boolean\ ganoApuesta(int)
+comment7.params=
+comment7.target=java.lang.String\ mostrarApuesta()
+numComments=8
